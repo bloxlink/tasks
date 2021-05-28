@@ -7,7 +7,6 @@ from aiotrello import Trello
 from os import environ as env
 
 MASTER_GUILD = 372036754078826496
-PARTNER_ROLE = 465022011727675393
 TRELLO_BOARD = "https://trello.com/b/o9PkeQYF/partners-and-notable-groups"
 
 
