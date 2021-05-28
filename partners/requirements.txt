@@ -1,0 +1,5 @@
+aredis==1.1.8
+hiredis==1.1.0
+aiotrello==0.0.7.6
+aiohttp==3.7.4.post0
+discord.py==1.7.2
