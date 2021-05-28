@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+partners/compile.py
+.DS_Store
